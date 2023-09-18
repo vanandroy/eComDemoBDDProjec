@@ -1,0 +1,9 @@
+ObjectUtils\RegisterAccountPage.class
+ObjectUtils\LoginPage.class
+GenericUtils\FileUtils.class
+GenericUtils\WebDriverUtils.class
+GenericUtils\JavaUtils.class
+ObjectUtils\CreatedAccountPage.class
+ObjectUtils\SearchResultPage.class
+ObjectUtils\HomePage.class
+ObjectUtils\MyAccountPage.class
